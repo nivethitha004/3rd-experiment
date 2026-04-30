@@ -1,4 +1,4 @@
-package com.example.rekha;
+package com.example.ex3;
 
 import android.media.MediaPlayer;
 import android.os.Bundle;
